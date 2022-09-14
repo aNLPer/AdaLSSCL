@@ -1,4 +1,6 @@
 import numpy
 
-a = [1, 2, 3, 4, 5]
-print(a[-3:-1])
+if float("inf")!=float("inf"):
+    print("false")
+else:
+    print("true")
